@@ -1,0 +1,1 @@
+Solved using a binomial coefficient calculator 40C20
